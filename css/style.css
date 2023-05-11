@@ -1,0 +1,235 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: rgb(0, 0, 0);
+    font-family: 'Poppins', sans-serif;
+}
+
+/* section class="glav" начало*/
+
+header {
+    display: flex;
+}
+
+.logo {
+    margin: 30px 640px 29px 152px;
+
+}
+
+.nav {
+    display: flex;
+    margin-top: 34px;
+    text-align: center;
+}
+
+li,
+a {
+    text-decoration: none;
+    list-style-type: none;
+}
+
+header a {
+    padding-right: 50px;
+    color: #FFFFFF;
+    border-radius: 14px;
+    font-size: 15px;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+
+}
+
+header li a:hover {
+    color: black;
+    border: 1px solid rgb(255, 255, 255);
+    background-color: #FFFFFF;
+}
+
+.min_icon {
+    display: flex;
+    margin-top: -100px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    color: aliceblue;
+
+}
+
+.min_icon p {
+    padding-left: 6px;
+    padding-right: 40px;
+    padding-bottom: 20px;
+}
+
+.glav_info {
+    justify-items: center;
+    position: absolute;
+    bottom: 10%;
+    color: #FFFFFF;
+    margin-left: auto;
+    margin-right: auto;
+    left: 30%;
+    right: 0;
+    text-align: center;
+
+}
+
+.info {
+    width: 710px;
+    text-align: center;
+
+}
+
+.glav_info_p1 {
+    color: #C0C0C0;
+    font-size: 20px;
+    text-transform: uppercase;
+
+}
+
+.info h1 {
+    color: #FFFFFF;
+    font-size: 54px;
+    padding-bottom: 10px;
+}
+
+.glav_info_p2 {
+font-size: 17px;
+color: #C0C0C0;
+
+}
+
+/* section class="glav" конец*/
+
+.wrapper {
+
+}
+
+.foto {
+    /* flex-wrap: wrap-reverse; */
+    /* display: flex; */
+    /* padding-left: 190px; */
+}
+
+.foto img {
+    /* padding-left: 50px; */
+}
+
+.foto1 {
+    /* padding-top: 200px;
+    padding-bottom: 50px; */
+    /* display: flex; */
+}
+
+.foto2 {
+    /* padding-top: 200px;
+    padding-bottom: 50px; */
+    /* display: flex; */
+}
+
+.foto_header {
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.hh {
+
+    /* margin-top: -100px; */
+    color: #C0C0C0;
+    /* width: 400px; */
+    padding-right: 50px;
+
+}
+
+.hh p {
+    margin-bottom: 30px;
+}
+
+.hh a {
+    color: black;
+    border-radius: 14px;
+    background-color: #FFFFFF;
+    padding: 9px 10px 13px 42px;
+}
+
+
+
+.hpa {
+    margin-left: 30px;
+    text-align: left;
+    margin-top: -220px;
+    width: 600px;
+}
+
+.foto_flex {
+    justify-content: center;
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 200px;
+}
+
+
+
+/* --------- */
+.hh_goru {
+    width: 350px;
+    color: #C0C0C0;
+    margin-top: -460px;
+    margin-left: 1400px;
+}
+
+.hh_goru h1 {
+
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.iconki_niz {
+    display: flex;
+    margin-left: 1500px;
+    margin-top: 303px;
+    color: aliceblue;
+}
+
+.iconki_niz p {
+    padding-left: 6px;
+    padding-right: 40px;
+    padding-bottom: 20px;
+}
+
+.Sweden {
+    display: flex;
+    height: 713.25px;
+    justify-content: right;
+}
+
+.Sweden .info {
+    text-align: left;
+    padding: 173px 106px 0px 100px ;
+    color: #C0C0C0;
+    /* padding-bottom: 30px; */
+}
+
+.Sweden a {
+    color: black;
+    border-radius: 14px;
+    background-color: #FFFFFF;
+    padding: 9px 10px 13px 42px;
+}
+
+.p2 {
+    padding-bottom: 30px;
+}
+
+.Sweden_img {
+    float: right;
+}
+
+
+.logotipi img{
+    
+
+}
